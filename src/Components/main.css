@@ -1,0 +1,30 @@
+main {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 700px;
+    
+}
+ h5 {
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 42%;
+    margin-bottom: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(2, 2, 70); 
+ }
+ .bg-image {
+   background-image: url(../images/Header\ bg@2x.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+ }
+ .lists {
+    margin-left: 42%;
+    list-style: square;
+ }
+ .list-item {
+    font-size: 24px;
+    font-weight: 500;
+    color:rgb(2, 2, 70);
+    padding-bottom: 2px;
+ }

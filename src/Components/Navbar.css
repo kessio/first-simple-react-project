@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.logo-img {
+    width: 50px;
+    height: 40px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+h3 {
+    margin-right: auto;
+    padding-left: 12px;
+    font-size: 25px;
+    line-height: 5px;
+    color:rgb(2, 2, 92);
+}
+ h4 {
+    margin-right: 26px;
+    color:rgb(2, 2, 92);;
+    font-size: 20px;
+ }
